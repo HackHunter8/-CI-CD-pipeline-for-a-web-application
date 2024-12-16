@@ -13,3 +13,14 @@ This is a simple web application demonstrating Continuous Integration and Contin
 - Automated testing
 - Code linting
 - Docker image build
+
+## Project Setup
+
+### Prerequisites
+- Node.js
+- Docker
+- npm
+
+### Installation
+1. Clone the repository
+2. Install dependencies:
